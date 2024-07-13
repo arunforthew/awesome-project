@@ -16,7 +16,20 @@ public class A {
 
 
 	}
+
+ private void india() {
+System.out.println("India");
 	
+ }
+ private void aus() {
+	 System.out.println("Aus");
+	 
+ }
+ private void brazil() {
+	 System.out.println("Brazil");
+	 
+ }
+
 	private void tamilnadu() {
 		System.out.println("Tamil");
 
@@ -25,13 +38,14 @@ public class A {
 		System.out.println("Malayalm");
 		
 	}
+	
 	private void andra() {
 		System.out.println("Telgu");
 		
 	}
-	
-	
-
-
-
 }
+	
+
+
+
+
