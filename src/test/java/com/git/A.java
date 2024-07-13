@@ -16,6 +16,7 @@ public class A {
 
 
 	}
+
  private void india() {
 System.out.println("India");
 	
@@ -29,5 +30,22 @@ System.out.println("India");
 	 
  }
 
+	private void tamilnadu() {
+		System.out.println("Tamil");
 
+	}
+	private void kerala() {
+		System.out.println("Malayalm");
+		
+	}
+	
+	private void andra() {
+		System.out.println("Telgu");
+		
+	}
 }
+	
+
+
+
+
